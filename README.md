@@ -2,7 +2,7 @@
 
 <!-- Profile image in circular shape -->
 <p align="right">
-  <img src="dp.webp" width="230" style="border-radius: 50%;">
+  <img src="Dp.webp" width="230" style="border-radius: 50%;">
 </p>
 
 <p><em>Software Engineer passionate about AI, Automation, and Full-Stack Development ⚙️💡<br>
