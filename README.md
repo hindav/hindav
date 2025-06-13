@@ -2,8 +2,6 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Engineer passionate about AI, Automation, and Full-Stack Development ⚙️💡<br>
 Building impactful tools and dashboards that solve real-world problems <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
-Working on intelligent automation like <a href="https://github.com/Hindav">Instagram Reels AutoPoster</a> and OCR projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</em></p>
 
 [![Linkedin: hindav](https://img.shields.io/badge/-hindav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hindav/)](https://www.linkedin.com/in/hindav/)
 [![GitHub Hindav](https://img.shields.io/github/followers/Hindav?label=follow&style=social)](https://github.com/Hindav)
