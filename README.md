@@ -1,7 +1,9 @@
 <h2> Hi, I'm Hindav Deshmukh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<!-- Circular Fast WebP Profile Image -->
-<img align="right" src="Dp.webp" width="230" style="border-radius: 50%;">
+<!-- Make image circular using styled <div> -->
+<div align="right">
+  <img src="Dp.webp" width="230" style="border-radius: 50%; display: inline-block;">
+</div>
 
 <p><em>Software Engineer passionate about AI, Automation, and Full-Stack Development ⚙️💡<br>
 Building tools and dashboards that solve real-world problems <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
