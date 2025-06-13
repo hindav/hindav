@@ -24,4 +24,5 @@ const hindav = {
   ],
   challenge: "Currently doing #100DaysOfCode focusing on building AI-powered full-stack tools 🚀"
 }
+```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with curious and creative minds</b> — if you're one of them, feel free to <b>say hi!</b> 😄</em>
