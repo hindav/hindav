@@ -1,7 +1,8 @@
 <h2> Hi, I'm Hindav Deshmukh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+<!-- Profile image in circular shape -->
 <p align="right">
-  <img src="Dp.webp" width="230" style="border-radius: 50%;">
+  <img src="dp.webp" width="230" style="border-radius: 50%;">
 </p>
 
 <p><em>Software Engineer passionate about AI, Automation, and Full-Stack Development ⚙️💡<br>
