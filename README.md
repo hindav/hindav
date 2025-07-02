@@ -20,7 +20,7 @@ Creating intelligent systems with React, Flask, MongoDB, and Machine Learning <i
 const hindav = {
   pronouns: "he" | "him",
   code: ["Python", "JavaScript", "C++", "HTML", "CSS"],
-  tools: ["React", "Node.js", "Flask", "MongoDB", "PyQt5", "D3.js"],
+  tools: ["React", "Node.js", "Flask", "MongoDB","Git"],
   architecture: ["microservices", "REST APIs", "modular dashboard systems"],
   projects: [
     "Self-Portfolio-By-Hindav 🔒 (Private)",
